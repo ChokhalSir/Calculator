@@ -2,7 +2,7 @@
 using System.Data;
 using System.Linq.Expressions;
 using System.Numerics;
-
+//this is the simple example of calculator using C# with proper error handling and basic requirements of calc,
 class Program
 {
 
